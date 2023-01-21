@@ -20,6 +20,5 @@ In collaboration with Marianne Rouche & Emily Freeman-Lavoie.
 
 ## Somaphore 3.0
 
-![CCA_logo_b&w](assets/CCA_RGB_black_e.svg)
 ![CCA_logo_col](assets/CCA_RGB_colour_e.svg)
 
