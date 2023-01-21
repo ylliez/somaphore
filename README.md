@@ -19,6 +19,7 @@ Building on the three prototypes, the next explorations involve developing bette
 ## Somaphore 2.0
 ![soma 2 bott](soma2/doc/3_bottom.jpg)
 ![soma 2 top](soma2/doc/4_top.jpg)
+<img src="soma2/doc/4_top.jpg" width="45%">
 ### [Demo](https://youtu.be/Pp8VppiNQ3Q)
 
 ## Somaphore 3.0
