@@ -26,6 +26,6 @@ Building on the three prototypes, the next explorations involve developing bette
 ## Somaphore 3.0
 <img src="assets/doc/soma3_suit.jpg" width="50%">
 
-In collaboration with Marianne Rouche & Emily Freeman-Lavoie. <br>
-Supported by the Canada Council of Arts.
+In collaboration with Marianne Rouche & Emily Freeman-Lavoie.<br>
+Supported by the Canada Council of Arts.<br>
 <img src="assets/CCA_RGB_black_e.svg" width="50%">
