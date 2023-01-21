@@ -11,14 +11,18 @@ A first prototype consisted in two wearable circuits, one containing an array of
 
 Building on the three prototypes, the next explorations involve developing better electronic hardware to enhance the sensory experience, broadening the interactivity from the current binary to a multiplicity of actors and reactors and testing different levels of constraint.
 
-In collaboration with Marianne Rouche & Emily Freeman-Lavoie.
-
 ## Somaphore 1.0
+![soma 1 all](soma1/doc/6.jpg)
+![soma 1 ss](soma1/doc/8.jpg)
 ### [Demo](https://youtu.be/eSgTZhMGZtM)
 
 ## Somaphore 2.0
+![soma 2 bott](soma2/doc/3 bottom.jpg)
+![soma 2 top](soma2/doc/4 top.jpg)
+### [Demo](https://youtu.be/Pp8VppiNQ3Q)
 
 ## Somaphore 3.0
 
-![CCA_logo_col](assets/CCA_RGB_colour_e.svg)
-
+In collaboration with Marianne Rouche & Emily Freeman-Lavoie.
+Supported by the Canada Council of Arts
+![CCA_logo_b&w](assets/CCA_RGB_black_e.svg)
