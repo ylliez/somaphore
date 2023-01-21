@@ -12,8 +12,8 @@ A first prototype consisted in two wearable circuits, one containing an array of
 Building on the three prototypes, the next explorations involve developing better electronic hardware to enhance the sensory experience, broadening the interactivity from the current binary to a multiplicity of actors and reactors and testing different levels of constraint.
 
 ## Somaphore 1.0
-![soma 1 all](soma1/doc/6.jpg)
-![soma 1 ss](soma1/doc/8.jpg)
+![soma 1 all](soma1/doc/6 .jpg)
+![soma 1 ss](soma1/doc/8.png)
 ### [Demo](https://youtu.be/eSgTZhMGZtM)
 
 ## Somaphore 2.0
