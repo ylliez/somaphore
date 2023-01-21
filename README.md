@@ -17,12 +17,12 @@ Building on the three prototypes, the next explorations involve developing bette
 ### [Demo](https://youtu.be/eSgTZhMGZtM)
 
 ## Somaphore 2.0
-![soma 2 bott](soma2/doc/3 bottom.jpg)
-![soma 2 top](soma2/doc/4 top.jpg)
+![soma 2 bott](soma2/doc/3_bottom.jpg)
+![soma 2 top](soma2/doc/4_top.jpg)
 ### [Demo](https://youtu.be/Pp8VppiNQ3Q)
 
 ## Somaphore 3.0
 
-In collaboration with Marianne Rouche & Emily Freeman-Lavoie.
-Supported by the Canada Council of Arts
+In collaboration with Marianne Rouche & Emily Freeman-Lavoie. <br>
+Supported by the Canada Council of Arts. <br><br>
 ![CCA_logo_b&w](assets/CCA_RGB_black_e.svg)
