@@ -14,16 +14,18 @@ Building on the three prototypes, the next explorations involve developing bette
 ## Somaphore 1.0
 <img src="assets/doc/soma1_BEV.jpg" width="100%">
 <img src="assets/doc/soma1_vidSS.png" width="100%">
+
 ### [Demo](https://youtu.be/eSgTZhMGZtM)
 
 ## Somaphore 2.0
 <img src="assets/doc/soma2_bott.jpg" width="49%">
 <img src="assets/doc/soma2_top.jpg" width="49%">
+
 ### [Demo](https://youtu.be/Pp8VppiNQ3Q)
 
 ## Somaphore 3.0
 <img src="assets/doc/soma3_suit.jpg" width="50%">
 
 In collaboration with Marianne Rouche & Emily Freeman-Lavoie. <br>
-Supported by the Canada Council of Arts. <br><br>
+Supported by the Canada Council of Arts.
 <img src="assets/CCA_RGB_black_e.svg" width="50%">
