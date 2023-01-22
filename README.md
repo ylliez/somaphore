@@ -11,19 +11,19 @@ A first prototype consisted in two wearable circuits, one containing an array of
 
 Building on the three prototypes, the next explorations involve developing better electronic hardware to enhance the sensory experience, broadening the interactivity from the current binary to a multiplicity of actors and reactors and testing different levels of constraint.
 
-## Somaphore 1.0
+## Somaphore 1.0 (2021)
 <img src="assets/doc/soma1_BEV.jpg" width="100%">
 <img src="assets/doc/soma1_vidSS.png" width="100%">
 
 ### [Demo](https://youtu.be/eSgTZhMGZtM)
 
-## Somaphore 2.0
+## Somaphore 2.0 (2021-2022)
 <img src="assets/doc/soma2_bott.jpg" width="49%">
 <img src="assets/doc/soma2_top.jpg" width="49%">
 
 ### [Demo](https://youtu.be/Pp8VppiNQ3Q)
 
-## Somaphore 3.0
+## Somaphore 3.0 (2022-2023)
 <img src="assets/doc/soma3_suit.jpg" width="50%">
 
 In collaboration with Marianne Rouche & Emily Freeman-Lavoie.<br>
